@@ -1,4 +1,4 @@
 # Livros De Receitas
- Projeto de criação de um livro de receitas
+Criando Um Livro De Receitas
 
-iniciando o projeto
+preciso de ajudas!
